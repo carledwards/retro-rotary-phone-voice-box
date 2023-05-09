@@ -1,3 +1,7 @@
+#
+# Original author: https://github.com/lavron/micropython-dfplayermini
+#
+
 import utime
 from machine import UART, Timer
 
