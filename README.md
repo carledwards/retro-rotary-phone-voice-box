@@ -1,7 +1,16 @@
 # Retro rotary phone voice box
 Converted a family kept vintage rotary phone to play back keepsake messages for my wife's birthday present.
 
-_I will be updating this with pictures and details as I am continue to enhance the functionality_
+_I will be updating this with pictures and more details as I am continuing to enhance the functionality_
+
+## Parts Used
+* [Wifi-kit-32](https://heltec.org/project/wifi-kit-32/) (running Micropython)
+* [DFPlayer Mini MP3 Player Module](https://www.amazon.com/gp/product/B08FFLH5XL)
+* [ABS Plastic Electronic Enclosure Case](https://www.amazon.com/gp/product/B09N3XS6BD)
+* [Power Relay Module](https://www.amazon.com/gp/product/B014F64OGA)
+* [TeleRing Telephone Ringer](https://www.ebay.com/itm/201916326756)
+* Vintage rotary phone
+* Misc: PC boards, pushbutton, wires, USB panel mount, etc
 
 ## v1 (currently implemented)
 The first version was to get this done in ~2 days.  Here are the features implemented:
