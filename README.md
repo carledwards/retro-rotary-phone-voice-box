@@ -39,3 +39,6 @@ Allow the user to place a call (this feature is in-progress)
 * The DFPlayer code needs some enhancements to read the files found on the SD Card
 * There are some capabilities of the DFPlayer to play audio from a directory (allowing to group like messages)
 * Would really like if new messages could be added remotely (i.e. w/o having to manually save to the SD card)
+
+## Photos
+![bottom](images/bottom_inside.jpeg)
