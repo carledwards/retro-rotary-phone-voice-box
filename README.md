@@ -86,4 +86,5 @@ When connecting to a pushbutton (or something that can have an open/floating con
 Read the [Writing interrupt handlers](https://docs.micropython.org/en/latest/reference/isr_rules.html) documentation for recommendations for your `irq` callbacks.  _After reading this myself, I need to go back and fix my irq code._
 
 ## Photos
+![phone](images/phone.jpeg)
 ![bottom](images/bottom_inside.jpeg)
