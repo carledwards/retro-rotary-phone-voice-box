@@ -45,5 +45,10 @@ class Switch:
             # Ignore further state changes until switch has settled
             await asyncio.sleep_ms(Switch.debounce_ms)
 
-    def deinit(self):
-        self._run.cancel()
+    async def deinit(self):
+        try:
+            self._run.cancel()
+            await asyncio.wait_for(self._run, 0.1)
+        except asyncio.CancelledError:
+            pass
+
